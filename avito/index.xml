@@ -31,9 +31,9 @@
 		<Address>Россия, Москва, Фармацевтический проезд 3</Address> <!-- Место продажи клиент указывает в своём профиле на нашем сервисе -->
 		<Condition>Новое</Condition> <!-- Состояние товара - пользователь указывает в своём профиле на нашем сервисе -->
 		<Images> <!-- Фото товара берём хз откуда, скорее всего МС -->
-			<Image url="http://*.jpeg" />
-			<Image url="http://*.jpeg" />
-			<Image url="http://*.jpeg" />
+			<Image url="http://***.jpeg" />
+			<Image url="http://***.jpeg" />
+			<Image url="http://***.jpeg" />
 		</Images>
 	</Ad>
 
