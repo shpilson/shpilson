@@ -1,0 +1,38 @@
+/* Basic */
+
+@font-face {
+    font-family: "Montserrat";
+    font-style: normal;
+    font-weight: normal;
+    font-display: swap;
+    src: local("Montserrat"), url('https://shpilson.github.io/shpilson/fonts/Montserrat-Regular.ttf') format('ttf');
+}
+
+@font-face {
+    font-family: "Montserrat";
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src: local("Montserrat"), url('https://shpilson.github.io/shpilson/fonts/Montserrat-Bold.ttf') format('ttf');
+}
+
+@font-face {
+    font-family: "Monaco";
+    font-style: normal;
+    font-weight: normal;
+    font-display: swap;
+    src: local("Montserrat"), url('https://shpilson.github.io/shpilson/fonts/Monaco-Regular.woff2') format('woff2');
+}
+
+body {
+    font-family: "Montserrat", sans-serif;
+}
+
+/* Styles */
+
+.wrapper {
+    min-height: 100%;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+}
