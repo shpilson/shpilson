@@ -79,7 +79,6 @@ body {
     display: flex;
     text-align: center;
     align-items: end;
-    background-image: url(https://shpilson.github.io/shpilson/img/sun-switcher.png);
 }
 
 .header__switcher-btn {
