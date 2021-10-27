@@ -82,6 +82,7 @@ body {
 }
 
 .header__switcher-btn {
+    background-image: url(https://shpilson.github.io/shpilson/img/sun-switcher.png);
 }
 
 .header__logo {}
