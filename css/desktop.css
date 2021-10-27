@@ -46,6 +46,7 @@ body {
 
 .header {
     background-image: url(https://shpilson.github.io/shpilson/img/Code-Header.png);
+    background-position: center;
 }
 
 .header__menu {}
