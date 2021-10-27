@@ -123,9 +123,7 @@ body {
     padding: 0 20px 0 0;
 }
 
-.header__languages-link--ru {
-    background-image: url(https://shpilson.github.io/shpilson/img/ru.png);
-}
+.header__languages-link--ru {}
 .header__languages-link--en {}
 .header__languages-link--de {}
 
