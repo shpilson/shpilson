@@ -51,6 +51,10 @@ body {
 
 .header__menu {
     margin: 50px 0;
+    
+    display: flex;
+    text-align: center;
+    align-items: center;
 }
 
 .header__menu-list {}
