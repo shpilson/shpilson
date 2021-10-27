@@ -103,6 +103,10 @@ body {
     line-height: 48px;
 }
 
+header__logo-pre-text {
+    color: #FFD700;
+}
+
 .header__languages {}
 
 .header__languages-list {}
