@@ -107,6 +107,10 @@ body {
     color: #FFD700;
 }
 
+.header__logo-mark {
+    color: #85D6F7;
+}
+
 .header__languages {}
 
 .header__languages-list {}
