@@ -86,7 +86,11 @@ body {
     position: relative;
 }
 
-.header__logo {}
+.header__logo {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
 
 .header__logo-text {}
 
