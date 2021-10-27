@@ -49,19 +49,19 @@ body {
     background-position: center;
 }
 
-.header__menu {
+.header__menu {}
+
+.header__menu-list {}
+
+.header__menu-list-item {}
+
+.header__menu-link {
     font-style: normal;
     font-weight: normal;
     font-size: 18px;
     line-height: 22px;
     color: #303030;
 }
-
-.header__menu-list {}
-
-.header__menu-list-item {}
-
-.header__menu-link {}
 
 .header__switcher {}
 
