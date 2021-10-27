@@ -93,7 +93,13 @@ body {
     flex-direction: column;
 }
 
-.header__logo-text {}
+.header__logo-text {
+    font-family: Monaco;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 48px;
+}
 
 .header__languages {}
 
