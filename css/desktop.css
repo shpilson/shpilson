@@ -123,9 +123,7 @@ body {
     padding: 0 20px 0 0;
 }
 
-.header__languages-link--ru {}
-.header__languages-link--en {}
-.header__languages-link--de {}
+.header__languages-link {}
 
 .header__introduce {}
 
