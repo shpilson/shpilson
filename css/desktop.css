@@ -55,7 +55,10 @@ body {
 
 .header__menu-list {}
 
-.header__menu-list-item {}
+.header__menu-list-item {
+    display: inline-block;
+    padding: 0 px 25 px;
+}
 
 .header__menu-link {
     text-decoration: none;
