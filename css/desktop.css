@@ -77,12 +77,12 @@ body {
 
 .header__switcher {
     display: flex;
-    justify-content: end;
+    text-align: center;
+    align-items: end;
 }
 
 .header__switcher-btn {
     background-image: url(https://shpilson.github.io/shpilson/img/sun-switcher.png) no-repeat;
-    background-position: center;
 }
 
 .header__logo {}
