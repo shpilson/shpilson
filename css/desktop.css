@@ -44,3 +44,110 @@ body {
     margin: 0 auto;
 }
 
+.header {}
+
+.header__menu {}
+
+.header__menu-list {}
+
+.header__menu-list-item {}
+
+.header__menu-link {}
+
+.header__switcher {}
+
+.header__switcher-btn {}
+
+.header__logo {}
+
+.header__logo-text {}
+
+.header__languages {}
+
+.header__languages-list {}
+
+.header__languages-list-item {}
+
+.header__languages-link {}
+
+.header__introduce {}
+
+.header__introduce-text {}
+
+.about {}
+
+.about__title {}
+
+.title {}
+
+.about__skills {}
+
+.about__skill {}
+
+.about__skill-img {
+    background-image: url(https://shpilson.github.io/shpilson/img/terminal-icon.svg);
+}
+
+.about__skill-box {}
+
+.about__undertitle {}
+
+.about__text {}
+
+.works {}
+
+.works__title {}
+
+.works__slider {}
+
+.works__slider-left-btn {}
+
+.works__box {}
+
+.works__card {}
+
+.works__item {}
+
+.works__img {}
+
+.works__category {}
+
+.works__description {}
+
+.works__slider-right-btn {}
+
+.works__all-btn {}
+
+.cv {}
+
+.cv__box {}
+
+.cv__skills-left {}
+
+.cv__skill {}
+
+.cv__title {}
+
+.cv__description {}
+
+.cv__description--grey {}
+
+.cv__job {}
+
+.description--green-bg {}
+
+.cv__skills-right {}
+
+.contacts {}
+
+.contacts__box {}
+
+.contacts__title {}
+
+.contacts__link {}
+
+.contacts__social {}
+
+.contacts__social-link {}
+
+.contacts__social-image {}
