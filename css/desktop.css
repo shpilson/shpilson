@@ -66,6 +66,11 @@ body {
     color: #303030;
 }
 
+.header__menu-link:hover {
+    color: #85D6F7;
+    text-decoration: underline;
+}
+
 .header__switcher {}
 
 .header__switcher-btn {}
