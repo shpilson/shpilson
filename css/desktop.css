@@ -82,6 +82,10 @@ body {
 }
 
 .header__switcher-btn {
+    display: inline-block;
+    height: 34px;
+    position: relative;
+    width: 60px;
     background-image: url(https://shpilson.github.io/shpilson/img/sun-switcher.png);
 }
 
