@@ -44,7 +44,9 @@ body {
     margin: 0 auto;
 }
 
-.header {}
+.header {
+    background-image: url(https://shpilson.github.io/shpilson/img/Code-Header.png);
+}
 
 .header__menu {}
 
