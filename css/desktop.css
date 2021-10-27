@@ -50,16 +50,15 @@ body {
 }
 
 .header__menu {
-    margin: 50px 0 0 0;
-    text-align: center;
-    align-items: center;
+    display: flex;
+    justify-content: center;
 }
 
 .header__menu-list {}
 
 .header__menu-list-item {
     display: inline-block;
-    padding: 0px 50px 0px 0px;
+    padding: 50px 50px 0px 0px;
 }
 
 .header__menu-link {
