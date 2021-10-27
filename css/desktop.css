@@ -83,9 +83,7 @@ body {
 
 .header__switcher-btn {
     display: inline-block;
-    height: 28px;
     position: relative;
-    width: 64px;
 }
 
 .header__logo {}
