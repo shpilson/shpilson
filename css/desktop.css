@@ -21,7 +21,7 @@
     font-style: normal;
     font-weight: normal;
     font-display: swap;
-    src: local("Montserrat"), url('https://shpilson.github.io/shpilson/fonts/Monaco-Regular.woff2') format('woff2');
+    src: local("Monaco"), url('https://shpilson.github.io/shpilson/fonts/Monaco-Regular.woff2') format('woff2');
 }
 
 body {
