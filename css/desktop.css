@@ -111,13 +111,21 @@ body {
     color: #85D6F7;
 }
 
-.header__languages {}
+.header__languages {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
 
 .header__languages-list {}
 
 .header__languages-list-item {}
 
-.header__languages-link {}
+.header__languages-link--ru {
+    background-image: url(https://shpilson.github.io/shpilson/img/ru.png);
+}
+.header__languages-link--en {}
+.header__languages-link--de {}
 
 .header__introduce {}
 
