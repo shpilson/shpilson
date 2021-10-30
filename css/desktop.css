@@ -204,7 +204,7 @@ body {
 
 .works__slider {
     display: flex;
-    justify-content: center;
+    justify-content: space-between;
 }
 
 .works__slider-btn {
@@ -224,7 +224,7 @@ body {
 }
 
 .works__box {
-    
+    display: flex;
 }
 
 .works__card {}
