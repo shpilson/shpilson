@@ -207,8 +207,13 @@ body {
     justify-content: center;
 }
 
-.works__slider-left-btn {
+.works__slider-btn {
+    color: #FFF;
     background: #FFB534;
+    width: 32px;
+    height: 32px;
+    border-radius: 50px;
+    border: none;
 }
 
 .works__box {}
@@ -222,8 +227,6 @@ body {
 .works__category {}
 
 .works__description {}
-
-.works__slider-right-btn {}
 
 .works__all-btn {}
 
