@@ -304,7 +304,9 @@ body {
     flex-direction: column;
 }
 
-.cv__skill {}
+.cv__skill {
+    margin: 100px 0 0 0;
+}
 
 .cv__title {
     font-style: normal;
