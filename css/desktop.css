@@ -193,7 +193,9 @@ body {
     color: #303030;
 }
 
-.works {}
+.works {
+    background: #FFFBF4;
+}
 
 .works__title {}
 
