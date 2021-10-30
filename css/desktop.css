@@ -159,7 +159,10 @@ body {
     color: #000000;
 }
 
-.about__skills {}
+.about__skills {
+    margin: 75px 0 0 0;
+    display: flex;
+}
 
 .about__skill {}
 
