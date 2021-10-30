@@ -207,7 +207,9 @@ body {
     justify-content: center;
 }
 
-.works__slider-left-btn {}
+.works__slider-left-btn {
+    background: #FFB534;
+}
 
 .works__box {}
 
