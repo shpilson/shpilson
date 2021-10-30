@@ -296,6 +296,7 @@ body {
 .cv__box {
     display: flex;
     flex-direction: row;
+    justify-content: center;
 }
 
 .cv__skills-left {
