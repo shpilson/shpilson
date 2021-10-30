@@ -213,13 +213,11 @@ body {
     font-weight: bold;
     font-size: 14px;
     line-height: 29px;
-
     background: #FFB534;
     width: 32px;
     height: 32px;
     border-radius: 50px;
     border: none;
-
     cursor: pointer;
 }
 
@@ -227,7 +225,10 @@ body {
     display: flex;
 }
 
-.works__card {}
+.works__card {
+    background: #58D8FF;
+    width: 500px;
+}
 
 .works__item {}
 
