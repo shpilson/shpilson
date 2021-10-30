@@ -223,7 +223,9 @@ body {
     cursor: pointer;
 }
 
-.works__box {}
+.works__box {
+    display: flex;
+}
 
 .works__card {}
 
