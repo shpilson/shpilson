@@ -205,6 +205,7 @@ body {
 .works__slider {
     display: flex;
     justify-content: space-between;
+    align-items: center;
 }
 
 .works__slider-btn {
