@@ -126,7 +126,9 @@ body {
     padding: 0 20px 0 0;
 }
 
-.header__languages-link {}
+.header__languages-link {
+    border: #000 1px solid;
+}
 
 .header__introduce {}
 
