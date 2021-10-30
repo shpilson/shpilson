@@ -133,7 +133,9 @@ body {
 
 .header__introduce {}
 
-.header__introduce-text {}
+.header__introduce-text {
+    font-family: Monaco, sans-serif;
+}
 
 .about {}
 
