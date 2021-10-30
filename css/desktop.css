@@ -313,7 +313,10 @@ body {
 
 .description--green-bg {}
 
-.cv__skills-right {}
+.cv__skills-right {
+    display: flex;
+    flex-direction: column;
+}
 
 .contacts {}
 
