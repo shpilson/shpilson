@@ -320,7 +320,9 @@ body {
     color: #303030;
 }
 
-.cv__description--grey {}
+.cv__description--grey {
+    color: #DEDEDE;
+}
 
 .cv__job {}
 
