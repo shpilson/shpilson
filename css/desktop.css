@@ -204,7 +204,6 @@ body {
 .works__slider {
     display: flex;
     justify-content: center;
-    text-align: center;
 }
 
 .works__slider-left-btn {}
