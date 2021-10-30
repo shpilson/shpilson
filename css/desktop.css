@@ -172,7 +172,14 @@ body {
 
 .about__skill-box {}
 
-.about__undertitle {}
+.about__undertitle {
+    font-family: Montserrat, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 22px;
+    color: #303030;
+}
 
 .about__text {}
 
