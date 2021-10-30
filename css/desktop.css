@@ -131,7 +131,9 @@ body {
     border-radius: 50px;
 }
 
-.header__introduce {}
+.header__introduce {
+    text-align: center;
+}
 
 .header__introduce-text {
     font-family: Monaco, sans-serif;
