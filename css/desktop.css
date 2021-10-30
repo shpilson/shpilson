@@ -231,7 +231,6 @@ body {
     width: 500px;
     height: 350px;
     border-radius: 10px;
-    
     margin: 0 20px;
 }
 
@@ -239,6 +238,7 @@ body {
 
 .works__img {
     cursor: pointer;
+    border-radius: 10px 10px 0 0;
 }
 
 .works__category {
