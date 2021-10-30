@@ -271,7 +271,6 @@ body {
 .works__all-btn {
     margin: 100px auto;
     background: linear-gradient(180deg, #FFB534 0%, #FFA400 100%);
-    box-shadow: 0px 6px 10px #FFE3B1;
     color: #FFF;
     border-radius: 50px;
     border: none;
@@ -281,6 +280,10 @@ body {
     font-weight: bold;
     font-size: 18px;
     line-height: 22px;
+}
+
+.works__all-btn:hover {
+    box-shadow: 0px 6px 10px #FFE3B1;
 }
 
 .cv {}
