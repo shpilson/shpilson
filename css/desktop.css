@@ -262,6 +262,8 @@ body {
     font-size: 13px;
     line-height: 16px;
     color: #303030;
+
+    margin: 0 20px;
 }
 
 .works__all-btn {}
