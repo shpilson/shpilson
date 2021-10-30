@@ -321,6 +321,11 @@ body {
 }
 
 .cv__description--grey {
+    font-family: Monaco;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 20px;
     color: #DEDEDE;
 }
 
