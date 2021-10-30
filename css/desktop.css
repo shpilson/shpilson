@@ -35,7 +35,6 @@ body {
     overflow: hidden;
     display: flex;
     flex-direction: column;
-
     background-image: url(https://shpilson.github.io/shpilson/img/Code-Header.png);
     background-position: center;
 }
@@ -47,8 +46,7 @@ body {
     margin: 0 auto;
 }
 
-.header {
-}
+.header {}
 
 .header__menu {
     display: flex;
@@ -148,7 +146,14 @@ body {
 
 .about__title {}
 
-.title {}
+.title {
+    font-family: Montserrat, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 29px;
+    color: #000000;
+}
 
 .about__skills {}
 
