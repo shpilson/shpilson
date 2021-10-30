@@ -197,9 +197,15 @@ body {
     background: #FFFBF4;
 }
 
-.works__title {}
+.works__title {
+    text-align: center;
+}
 
-.works__slider {}
+.works__slider {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
 
 .works__slider-left-btn {}
 
