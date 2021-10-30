@@ -209,6 +209,11 @@ body {
 
 .works__slider-btn {
     color: #FFF;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 29px;
+    
     background: #FFB534;
     width: 32px;
     height: 32px;
