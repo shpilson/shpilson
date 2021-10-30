@@ -347,6 +347,8 @@ body {
 
 .description--green-bg {}
 
+.description--red-bg {}
+
 .cv__skills-right {
     display: flex;
     flex-direction: column;
