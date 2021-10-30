@@ -198,6 +198,7 @@ body {
 }
 
 .works__title {
+    margin: 100px auto;
     text-align: center;
 }
 
