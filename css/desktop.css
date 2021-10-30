@@ -291,9 +291,15 @@ body {
 
 .cv {}
 
-.cv__box {}
+.cv__box {
+    display: flex;
+    flex-direction: row;
+}
 
-.cv__skills-left {}
+.cv__skills-left {
+    display: flex;
+    flex-direction: column;
+}
 
 .cv__skill {}
 
