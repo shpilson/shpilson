@@ -303,9 +303,22 @@ body {
 
 .cv__skill {}
 
-.cv__title {}
+.cv__title {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 29px;
+    color: #000000;
+}
 
-.cv__description {}
+.cv__description {
+    font-family: Monaco;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 20px;
+    color: #303030;
+}
 
 .cv__description--grey {}
 
