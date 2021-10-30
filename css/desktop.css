@@ -166,7 +166,9 @@ body {
 
 .about__skill {}
 
-.about__skill-img {}
+.about__skill-img {
+    margin: 0 0 0 15px;
+}
 
 .about__skill-box {}
 
