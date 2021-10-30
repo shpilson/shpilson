@@ -142,7 +142,9 @@ body {
     color: #000000;
 }
 
-.about {}
+.about {
+    margin: 100px 0 0 0;
+}
 
 .about__title {}
 
