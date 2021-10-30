@@ -324,7 +324,14 @@ body {
     color: #DEDEDE;
 }
 
-.cv__job {}
+.cv__job {
+    font-family: Monaco;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 20px;
+    color: #303030;
+}
 
 .description--green-bg {}
 
