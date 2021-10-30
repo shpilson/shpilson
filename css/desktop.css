@@ -235,6 +235,7 @@ body {
 .works__item {}
 
 .works__img {
+    cursor: pointer;
 }
 
 .works__category {
@@ -243,7 +244,6 @@ body {
     font-size: 10px;
     line-height: 12px;
     color: #AA8E2F;
-
     margin: 10px 20px;
 }
 
@@ -253,7 +253,6 @@ body {
     font-size: 18px;
     line-height: 22px;
     color: #303030;
-
     margin: 0 20px 10px;
 }
 
@@ -263,7 +262,6 @@ body {
     font-size: 13px;
     line-height: 16px;
     color: #303030;
-
     margin: 0 20px;
 }
 
