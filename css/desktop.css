@@ -268,7 +268,9 @@ body {
     margin: 0 20px;
 }
 
-.works__all-btn {}
+.works__all-btn {
+    margin: 100px auto;
+}
 
 .cv {}
 
