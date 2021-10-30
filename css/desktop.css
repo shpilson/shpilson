@@ -252,6 +252,8 @@ body {
     font-size: 18px;
     line-height: 22px;
     color: #303030;
+
+    margin: 0px 20px 10px;
 }
 
 .works__description {
