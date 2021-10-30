@@ -146,7 +146,9 @@ body {
     margin: 100px 0 0 0;
 }
 
-.about__title {}
+.about__title {
+    text-align: center;
+}
 
 .title {
     font-family: Montserrat, sans-serif;
