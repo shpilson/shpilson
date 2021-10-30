@@ -252,7 +252,13 @@ body {
     color: #303030;
 }
 
-.works__description {}
+.works__description {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 16px;
+    color: #303030;
+}
 
 .works__all-btn {}
 
