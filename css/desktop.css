@@ -229,6 +229,7 @@ body {
 .works__card {
     background: #58D8FF;
     width: 500px;
+    height: 350px;
 }
 
 .works__item {}
