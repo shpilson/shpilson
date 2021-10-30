@@ -234,11 +234,15 @@ body {
 
 .works__item {}
 
-.works__img {
-    
-}
+.works__img {}
 
-.works__category {}
+.works__category {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    line-height: 12px;
+    color: #AA8E2F;
+}
 
 .works__project {}
 
