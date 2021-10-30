@@ -230,6 +230,7 @@ body {
     background: #58D8FF;
     width: 500px;
     height: 350px;
+    padding: 0 20px;
 }
 
 .works__item {}
