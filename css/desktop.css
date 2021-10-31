@@ -375,7 +375,9 @@ body {
     justify-content: center;
 }
 
-.contacts__title {}
+.contacts__title {
+    margin: 0 0 20px 0;
+}
 
 .contacts__link {
     font-family: Monaco;
