@@ -354,6 +354,7 @@ body {
 .description--red-bg {
     background: #FFB0B0;;
     border-radius: 5px;
+    padding: 0 5px;
 }
 
 .cv__skills-right {
