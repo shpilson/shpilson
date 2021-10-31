@@ -392,7 +392,10 @@ body {
     background: #C4C4C4;
 }
 
-.contacts__social {}
+.contacts__social {
+    display: flex;
+    flex-direction: row;
+}
 
 .contacts__social-link {}
 
