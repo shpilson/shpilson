@@ -382,6 +382,16 @@ body {
     color: #303030;
 }
 
+.contacts__link:hover {
+    font-family: Monaco;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 20px;
+    color: #FFFFFF;
+    background: #C4C4C4;
+}
+
 .contacts__social {}
 
 .contacts__social-link {}
