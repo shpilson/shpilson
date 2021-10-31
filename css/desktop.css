@@ -369,7 +369,11 @@ body {
     justify-content: center;
 }
 
-.contacts__box {}
+.contacts__box {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
 
 .contacts__title {}
 
