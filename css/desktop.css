@@ -402,6 +402,8 @@ body {
     margin: 10px auto;
 }
 
-.contacts__social-link {}
+.contacts__social-link {
+    margin: 0 15px;
+}
 
 .contacts__social-image {}
