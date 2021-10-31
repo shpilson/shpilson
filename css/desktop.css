@@ -342,6 +342,7 @@ body {
     font-size: 15px;
     line-height: 20px;
     color: #303030;
+    width: 500px;
 }
 
 .description--green-bg {}
