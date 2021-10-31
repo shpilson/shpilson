@@ -348,6 +348,7 @@ body {
 .description--green-bg {
     background: #B0FFC2;
     border-radius: 5px;
+    padding: 0 7px;
 }
 
 .description--red-bg {
