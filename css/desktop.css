@@ -362,7 +362,11 @@ body {
     flex-direction: column;
 }
 
-.contacts {}
+.contacts {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
 
 .contacts__box {}
 
