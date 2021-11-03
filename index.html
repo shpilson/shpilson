@@ -61,8 +61,8 @@
           <ul class="header__languages-list">
             <li class="header__languages-list-item">
               <label>
-                <a href='#'><input class="header__languages-link" type="image"
-                    src="https://shpilson.github.io/shpilson/img/flag-ru.svg" value="ru"></a>
+                <input class="header__languages-link" type="image"
+                  src="https://shpilson.github.io/shpilson/img/flag-ru.svg" value="ru" onclick="setLang('ru)">
               </label>
             </li>
             <li class="header__languages-list-item">
@@ -230,7 +230,7 @@
 
   <script src="https://shpilson.github.io/shpilson/js/jquery.js"></script>
   <script src="https://shpilson.github.io/shpilson/js/d2s_lang.js"></script>
-  <script> 
+  <script>
     lang('lang', 'data-lang', 'body');
 
     function setLang(setLang) {
@@ -239,7 +239,8 @@
       //ajax запрос для сохранение языка в SESSION
       //в дальнейщем SESSION размещаем в body - data-lang-active
     }
-    </script>
+  </script>
 
-    </body>
+</body>
+
 </html>
