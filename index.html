@@ -20,18 +20,6 @@
   <link rel="stylesheet" media="all" href="https://shpilson.github.io/shpilson/css/style.css">
   <link rel="shortcut icon" href="https://shpilson.github.io/shpilson/favicon.ico" type="image/x-icon">
   <link rel="apple-touch-icon" href="https://shpilson.github.io/shpilson/favicon.ico">
-
-  <script src="https://shpilson.github.io/shpilson/js/jquery.js" />
-  <script src="https://shpilson.github.io/shpilson/js/d2s_lang.js" />
-  <script> 
-    lang('lang', 'data-lang', 'body');
-
-    function setLang(setLang) {
-      $('body').data('lang-active', setLang);
-      lang('lang', 'data-lang', 'body');
-      //ajax запрос для сохранение языка в SESSION
-      //в дальнейщем SESSION размещаем в body - data-lang-active
-    }</script>
 </head>
 
 <body data-lang-active="ru">
@@ -240,6 +228,17 @@
     </section>
   </div>
 
-</body>
+  <script src="https://shpilson.github.io/shpilson/js/jquery.js" />
+  <script src="https://shpilson.github.io/shpilson/js/d2s_lang.js" />
+  <script> 
+    lang('lang', 'data-lang', 'body');
 
+    function setLang(setLang) {
+      $('body').data('lang-active', setLang);
+      lang('lang', 'data-lang', 'body');
+      //ajax запрос для сохранение языка в SESSION
+      //в дальнейщем SESSION размещаем в body - data-lang-active
+    }</script>
+
+    </body>
 </html>
