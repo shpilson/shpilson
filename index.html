@@ -66,7 +66,7 @@
               </label>
             </li>
             <li class="header__languages-list-item">
-              <input class="header__languages-link" type="image"
+              <button class="header__languages-link" type="image"
                 src="https://shpilson.github.io/shpilson/img/flag-uk.svg" value="en" onclick="setLang('en')">
             </li>
             <li class="header__languages-list-item">
@@ -231,7 +231,7 @@
   <script src="https://shpilson.github.io/shpilson/js/jquery.js" />
   <script src="https://shpilson.github.io/shpilson/js/d2s_lang.js" />
   <script> lang('lang', 'data-lang', 'body');
-    
+
     function setLang(setLang) {
       $('body').data('lang-active', setLang);
       lang('lang', 'data-lang', 'body');
