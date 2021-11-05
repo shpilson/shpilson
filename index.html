@@ -44,7 +44,7 @@
           </nav>
           <div class="header__switcher">
             <input class="header__switcher-btn" type="image" src="https://shpilson.github.io/shpilson/img/day.svg"
-              alt="Переключить тему">
+              alt="Переключить тему" onclick="myFunction()">
           </div>
         </div>
 
@@ -248,7 +248,12 @@
     }
   </script>
 
-
+  <script>
+    function myFunction() {
+      var element = document.body;
+      element.classList.toggle("dark-mode");
+    }
+  </script>
 
 </body>
 
