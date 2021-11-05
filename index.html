@@ -43,8 +43,8 @@
             </ul>
           </nav>
           <div class="header__switcher">
-            <input class="header__switcher-btn" type="image"
-              src="https://shpilson.github.io/shpilson/img/day.svg" alt="Переключить тему">
+            <input class="header__switcher-btn" type="image" src="https://shpilson.github.io/shpilson/img/day.svg"
+              alt="Переключить тему">
           </div>
         </div>
 
@@ -246,6 +246,14 @@
       //ajax запрос для сохранение языка в SESSION
       //в дальнейщем SESSION размещаем в body - data-lang-active
     }
+  </script>
+
+  <script src="https://cdn.jsdelivr.net/npm/darkmode-js@1.5.7/lib/darkmode-js.min.js"></script>
+  <script>
+    function addDarkmodeWidget() {
+      new Darkmode().showWidget();
+    }
+    window.addEventListener('load', addDarkmodeWidget);
   </script>
 
 </body>
