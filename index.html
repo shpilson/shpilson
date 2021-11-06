@@ -43,7 +43,7 @@
             </ul>
           </nav>
           <div class="header__switcher">
-            <input class="header__switcher-btn" type="image" alt="Dark Mode" onclick="themeSwitcher()">
+            <input class="header__switcher-btn" id="switcher" src="https://shpilson.github.io/shpilson/img/day.svg" type="image" alt="Dark Mode" onclick="themeSwitcher()">
           </div>
         </div>
 
@@ -250,7 +250,7 @@
       var element = document.body;
       var switchButton = document.querySelector('.header__switcher-btn');
       element.classList.toggle("dark-mode");
-      switchButton.classList.toggle("moon");
+      document.getElementById(".header__switcher-btn").src="/2.png";
     }
   </script>
 
