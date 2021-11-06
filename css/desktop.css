@@ -83,6 +83,7 @@ body {
 .header__switcher-btn {
     display: inline-block;
     position: relative;
+    border-radius: 50px;
 }
 
 .header__logo {
