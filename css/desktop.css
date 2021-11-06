@@ -416,3 +416,7 @@ body {
     background-color: black;
     color: white;
 }
+
+.moon {
+    background-image: url("https://shpilson.github.io/shpilson/img/day.svg");
+}
