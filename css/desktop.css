@@ -84,6 +84,7 @@ body {
     display: inline-block;
     position: relative;
     border-radius: 50px;
+    background-image: url("https://shpilson.github.io/shpilson/img/day.svg");
 }
 
 .moon {
