@@ -9,7 +9,7 @@ function themeSwitcher() {
     menu.classList.toggle("dark-menu");
 
     var switcher = document.getElementById("switcher");
-    if (wrapper = document.querySelector(".dark")) {
+    if (wrapper = document.querySelector(".dark-wrapper")) {
         switcher.src = "https://shpilson.github.io/shpilson/img/moon.svg";
     } else {
         switcher.src = "https://shpilson.github.io/shpilson/img/day.svg";
