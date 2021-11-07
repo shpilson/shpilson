@@ -35,9 +35,9 @@ body {
     overflow: hidden;
     display: flex;
     flex-direction: column;
-    background-image: url(https://shpilson.github.io/shpilson/img/Code-Header.png);
     background: linear-gradient(90deg, rgba(241, 254, 255, 0.81) 0%, rgba(255, 255, 255, 0) 25.97%, rgba(255, 255, 255, 0) 74.28%, rgba(241, 254, 255, 0.81) 100%);
     background-color: #FFFFFF;
+    background-image: url(https://shpilson.github.io/shpilson/img/Code-Header.png);
     background-position: center;
 }
 
