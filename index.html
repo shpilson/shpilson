@@ -237,6 +237,7 @@
 
   <script src="https://shpilson.github.io/shpilson/js/jquery.js"></script>
   <script src="https://shpilson.github.io/shpilson/js/d2s_lang.js"></script>
+  <script src="https://shpilson.github.io/shpilson/js/themeSwitcher.js"></script>
   <script>
     lang('lang', 'data-lang', 'body');
 
@@ -246,19 +247,5 @@
     }
   </script>
 
-  <script>
-    function themeSwitcher() {
-      var element = document.querySelector(".wrapper");
-      element.classList.toggle("dark");
-      var switcher = document.getElementById("switcher");
-      if (element = document.querySelector(".dark")) {
-        switcher.src = "https://shpilson.github.io/shpilson/img/moon.svg";
-      } else {
-        switcher.src = "https://shpilson.github.io/shpilson/img/day.svg";
-      }
-    }
-  </script>
-
 </body>
-
 </html>
