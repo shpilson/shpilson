@@ -3,6 +3,6 @@
 .dark {
     background-image: url(https://shpilson.github.io/shpilson/img/dark-bg.png);
     background-position: center;
-    background-color: linear-gradient(90deg, rgba(7, 0, 49, 0.81) 0%, rgba(0, 0, 0, 0) 25.97%, rgba(0, 0, 0, 0) 74.28%, rgba(7, 0, 49, 0.81) 100%);
+    background-color: #000000;
     color: #FFFFFF;
 }
