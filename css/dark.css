@@ -1,0 +1,13 @@
+@import url("https://shpilson.github.io/shpilson/css/desktop.css");
+
+/* Styles */
+
+.wrapper {
+    min-height: 100%;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    background-image: url(https://shpilson.github.io/shpilson/img/Code-Header.png);
+    background-position: center;
+    background-color: #000000;
+}
