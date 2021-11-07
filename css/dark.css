@@ -2,6 +2,7 @@
 
 .dark {
     background-image: url(https://shpilson.github.io/shpilson/img/dark-bg.png);
+    background-position: center;
     background-color: #000000;
     color: #FFFFFF;
 }
