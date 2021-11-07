@@ -5,7 +5,7 @@ function themeSwitcher() {
     var introduce = document.querySelector(".header__introduce-text");
     introduce.classList.toggle("dark-introduce");
 
-    var menu = document.querySelector(".header__menu-link");
+    var menu = document.querySelectorAll(".header__menu-link");
     menu.classList.toggle("dark-menu");
 
     var switcher = document.getElementById("switcher");
