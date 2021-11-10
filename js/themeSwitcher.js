@@ -19,6 +19,8 @@ function themeSwitcher() {
     } else {
         switcher.src = "https://shpilson.github.io/shpilson/img/day.svg";
     }
+
+    return switcher
 }
 
 
