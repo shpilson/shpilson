@@ -20,7 +20,6 @@ function themeSwitcher() {
         switcher.src = "https://shpilson.github.io/shpilson/img/day.svg";
     }
 
-    return switcher
 }
 
 
