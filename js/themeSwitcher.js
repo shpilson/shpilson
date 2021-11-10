@@ -18,6 +18,11 @@ function themeSwitcher() {
     var works = document.querySelector(".works");
     works.classList.toggle("dark-works");
 
+    var title = document.querySelector(".works");
+    title.classList.toggle("dark-title");
+
+
+
 }
 
 
