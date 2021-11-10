@@ -15,6 +15,9 @@ function themeSwitcher() {
     var menu = document.querySelector(".header__menu-link");
     menu.classList.toggle("dark-menu");
 
+    var works = document.querySelector(".works");
+    works.classList.toggle("dark-works");
+
 }
 
 
