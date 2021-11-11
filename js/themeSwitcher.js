@@ -11,7 +11,7 @@ function themeSwitcher() {
     var works = document.querySelector(".works");
     works.classList.toggle("dark-works");
 
-    var title = document.querySelector(".works");
+    var title = document.querySelector(".works__title");
     title.classList.toggle("dark-title");
 
     var switcher = document.getElementById("switcher");
