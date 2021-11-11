@@ -15,7 +15,7 @@ function themeSwitcher() {
     works_title.classList.toggle("dark-title");
 
     var works_card = document.querySelectorAll(".works__card");
-    works_card[0].classList.toggle("dark-card");
+    works_card[i].classList.toggle("dark-card");
 
     var switcher = document.getElementById("switcher");
     if (wrapper = document.querySelector(".dark-wrapper")) {
