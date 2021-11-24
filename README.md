@@ -1,8 +1,8 @@
-### Hi there 👋, thanks for visit!
-#### Few words about me.
-![Few words about me.](https://www.digitaltechnologylabs.com/wp-content/uploads/2019/06/01-240x300.jpg)
+### Hi there! Let me introduce myself.
+#### My name is Georgii Kowalenko. 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shpilson)](https://github.com/anuraghazra/github-readme-stats)
 
-My name is Georgii Kowalenko. 
+
 I’m Front-end Developer & UI Designer.
 I think it's important not to stop learning and not stop there.
 
@@ -14,7 +14,5 @@ Skills: JavaScript (ReactJS), CSS/HTML (BEM-methodology)
 - 📫 How to reach me: kowalenko.gg@gmail.com 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shpilson)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shpilson)](https://github.com/anuraghazra/github-readme-stats)
-
+![Few words about me.](https://www.digitaltechnologylabs.com/wp-content/uploads/2019/06/01-240x300.jpg)
