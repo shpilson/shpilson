@@ -1,0 +1,27 @@
+{
+    "remotePath": "/domains/kowalenko.net/public_html/",
+    "host": "95.216.74.44",
+    "username": "kowalenko",
+    "password": "0iU0jTXg",
+    "port": 21,
+    "secure": false,
+    "protocol": "ftp",
+    "uploadOnSave": false,
+    "passive": false,
+    "debug": false,
+    "privateKeyPath": null,
+    "passphrase": null,
+    "agent": null,
+    "allow": [],
+    "ignore": [
+        "\\.vscode",
+        "\\.git",
+        "\\.DS_Store"
+    ],
+    "generatedFiles": {
+        "extensionsToInclude": [
+            ""
+        ],
+        "path": ""
+    }
+} 
