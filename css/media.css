@@ -169,8 +169,10 @@
 
 
     .works__img {
+        height: 250px;
         cursor: pointer;
         border-radius: 10px 10px 0 0;
+        background-image: url("/img/movers-mobile.jpg");
     }
 
     .works__category {
