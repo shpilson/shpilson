@@ -4,3 +4,5 @@ function setLang(setLang) {
     $('body').data('lang-active', setLang);
     lang('lang', 'data-lang', 'body');
 }
+
+export default langSwitcher;
