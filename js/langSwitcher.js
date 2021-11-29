@@ -5,4 +5,4 @@ function setLang(setLang) {
     lang('lang', 'data-lang', 'body');
 }
 
-export default langSwitcher;
+export default setLang;

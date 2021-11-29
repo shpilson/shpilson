@@ -2,9 +2,8 @@
 import pages from './config/conditions';
 
 // Language switcher / Переключение языков
-import langSwitcher from './langSwitcher'
-
+import setLang from './langSwitcher'
 
 if (pages.all) {
-    langSwitcher();
+    setLang();
 }
