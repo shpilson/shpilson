@@ -269,8 +269,6 @@ body {
     text-align: center;
 }
 
-.works__slider {}
-
 .works__slider-btn {
     color: #FFF;
     font-style: normal;
@@ -284,8 +282,6 @@ body {
     border: none;
     cursor: pointer;
 }
-
-.works__box {}
 
 .works__card {
     background: #FFF;
