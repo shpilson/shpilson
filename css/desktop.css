@@ -99,10 +99,7 @@ body {
     visibility: hidden;
     display: flex;
     align-items: center;
-    position: fixed;
-    top: 20px;
-    left: 20px;
-
+    position: static;
     width: 26px;
     height: 26px;
 
@@ -113,10 +110,11 @@ body {
 .menu__btn>span,
 .menu__btn>span::before,
 .menu__btn>span::after {
-    display: block;
+    display: flex;
+    top: 45px;
     position: absolute;
 
-    width: 100%;
+    width: 26px;
     height: 2px;
 
     background-color: #616161;
@@ -305,7 +303,6 @@ body {
     margin: 0 20px;
 }
 
-.works__item {}
 
 .works__img {
     cursor: pointer;
