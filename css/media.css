@@ -172,7 +172,6 @@
         height: 250px;
         cursor: pointer;
         border-radius: 10px 10px 0 0;
-        background-image: url("/img/movers-mobile.jpg");
     }
 
     .works__category {
@@ -182,6 +181,7 @@
         line-height: 12px;
         color: #0072A0;
         margin: 10px 20px;
+        width: 70px;
     }
 
     .works__project {
@@ -191,6 +191,7 @@
         line-height: 22px;
         color: #303030;
         margin: 0 20px 10px;
+        width: 140px;
     }
 
     .works__description {
@@ -229,7 +230,7 @@
 
     .cv__box {
         display: flex;
-        flex-direction: row;
+        flex-direction: column;
         justify-content: center;
     }
 
@@ -239,7 +240,7 @@
     }
 
     .cv__skill {
-        margin: 0 0 100px 0;
+        margin: 0 0 50px 0;
     }
 
     .cv__title {
@@ -276,7 +277,7 @@
         font-size: 15px;
         line-height: 20px;
         color: #303030;
-        width: 500px;
+        width: 300px;
     }
 
     .description--green-bg {
@@ -339,8 +340,6 @@
     .contacts__social-link {
         margin: 0 15px;
     }
-
-    .contacts__social-image {}
 
     .dark-mode {
         background-color: black;
