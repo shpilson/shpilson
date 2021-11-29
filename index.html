@@ -237,8 +237,14 @@
   <script src="/js/jquery.js"></script>
   <script src="/js/d2s_lang.js"></script>
   <script src="/js/themeSwitcher.js"></script>
+  <script>
+    lang('lang', 'data-lang', 'body');
 
-  <script src="/js/main.js"></script>
+    function setLang(setLang) {
+      $('body').data('lang-active', setLang);
+      lang('lang', 'data-lang', 'body');
+    }
+  </script>
 
 </body>
 
