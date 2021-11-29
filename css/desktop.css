@@ -269,11 +269,7 @@ body {
     text-align: center;
 }
 
-.works__slider {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-}
+.works__slider {}
 
 .works__slider-btn {
     color: #FFF;
