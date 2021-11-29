@@ -20,7 +20,7 @@
 
     .header__menu {
         display: flex;
-        justify-content: space-around;
+        justify-content: space-between;
     }
 
     .header__menu-list-item {
