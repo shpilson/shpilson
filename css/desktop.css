@@ -35,7 +35,7 @@ body {
     overflow: hidden;
     display: flex;
     flex-direction: column;
-    background-image: url(https://shpilson.github.io/shpilson/img/Code-Header.png);
+    background-image: url("https://shpilson.github.io/shpilson/img/Code-Header.png");
     background-position: center;
 }
 
