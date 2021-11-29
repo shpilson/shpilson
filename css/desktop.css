@@ -89,7 +89,7 @@ body {
     transform: rotate(90deg);
 }
 
-/* Desktop - Off */
+/* Mobile menu on desktop - Off */
 #menu__toggle:checked~.header__nav-menu {
     visibility: visible;
     left: 0;
