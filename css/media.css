@@ -14,6 +14,14 @@
         padding: 0 10px;
     }
 
+    .header__nav-menu {
+        visibility: hidden;
+    }
+
+    /* Mobile - On */
+    .menu__btn {
+        visibility: visible;
+    }
 }
 
 /* Tablets */
