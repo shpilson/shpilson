@@ -18,6 +18,7 @@
     Также, мне нравится оптимизировать проекты для получения лучшего результата.">
 
   <link rel="stylesheet" media="all" href="/css/style.css">
+  <link rel="stylesheet" href="https://unpkg.com/flickity@2/dist/flickity.min.css">
   <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
   <link rel="apple-touch-icon" href="/favicon.ico">
 </head>
@@ -101,7 +102,7 @@
         <div class="works__slider">
           <button class="works__slider-btn">
             < </button>
-              <div class="works__box">
+              <div class="works__box main-carousel" data-flickity='{ "cellAlign": "left", "contain": true }'>
                 <div class="works__card">
                   <ul class="works__item">
                     <img class="works__img" src="/img/preview-1.jpg">
@@ -249,6 +250,8 @@
       lang('lang', 'data-lang', 'body');
     }
   </script>
+  <script src="https://unpkg.com/flickity@2/dist/flickity.pkgd.min.js"></script>
+  <script src="/js/accordion.js"></script>
 
 </body>
 
