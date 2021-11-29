@@ -285,9 +285,7 @@ body {
     cursor: pointer;
 }
 
-.works__box {
-    display: flex;
-}
+.works__box {}
 
 .works__card {
     background: #FFF;
