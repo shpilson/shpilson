@@ -18,6 +18,11 @@
         visibility: hidden;
     }
 
+    .header__menu {
+        display: flex;
+        justify-content: space-around;
+    }
+
     .header__menu-list-item {
         display: flex;
         padding: 10px 10px 0px 0px;

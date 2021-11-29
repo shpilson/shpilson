@@ -14,14 +14,14 @@ function themeSwitcher() {
     const works_title = document.querySelector(".works__title");
     works_title.classList.toggle("dark-title");
 
-    const works_card = document.querySelectorAll(".works__card");
+    const works_card = document.querySelector(".works__card");
     works_card.classList.toggle("dark-card");
 
     const switcher = document.getElementById("switcher");
-    if (wrapper = document.querySelector(".dark-wrapper")) {
-        switcher.src = "/img/moon.svg";
-    } else {
+    if (wrapper !== document.querySelector(".dark-wrapper")) {
         switcher.src = "/img/day.svg";
+    } else {
+        switcher.src = "/img/moon.svg";
     }
 
 }
