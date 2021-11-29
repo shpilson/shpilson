@@ -1,4 +1,4 @@
-var elem = document.querySelector('.main-carousel');
+var elem = document.querySelector('.works__slider');
 var flkty = new Flickity(elem, {
     // options
     cellAlign: 'left',
@@ -7,6 +7,6 @@ var flkty = new Flickity(elem, {
 
 // element argument can be a selector string
 //   for an individual element
-var flkty = new Flickity('.main-carousel', {
+var flkty = new Flickity('.works__slider', {
     // options
 });
