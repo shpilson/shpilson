@@ -2,7 +2,7 @@
 
 @media (min-width: 320px) and (max-width: 767px) {
     .wrapper {
-        background-image: url("https://shpilson.github.io/shpilson/img/Code-Header.png");
+        background-image: url("/img/Code-Header.png");
         -moz-background-size: 100%;
         -webkit-background-size: 100%;
         -o-background-size: 100%;
@@ -11,15 +11,16 @@
 
     .container {
         max-width: 320px;
-        padding: 0 14px;
+        padding: 0 10px;
     }
+
 }
 
 /* Tablets */
 
 @media (min-width: 768px) and (max-width: 1023px) {
     .wrapper {
-        background-image: url("https://shpilson.github.io/shpilson/img/Code-Header.png");
+        background-image: url("/img/Code-Header.png");
         -moz-background-size: 100%;
         -webkit-background-size: 100%;
         -o-background-size: 100%;
