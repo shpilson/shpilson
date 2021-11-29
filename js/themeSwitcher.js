@@ -1,27 +1,27 @@
 function themeSwitcher() {
-    var wrapper = document.querySelector(".wrapper");
+    const wrapper = document.querySelector(".wrapper");
     wrapper.classList.toggle("dark-wrapper");
 
-    var introduce = document.querySelector(".header__introduce-text");
+    const introduce = document.querySelector(".header__introduce-text");
     introduce.classList.toggle("dark-introduce");
 
-    var menu = document.querySelector(".header__menu-link");
+    const menu = document.querySelector(".header__menu-link");
     menu.classList.toggle("dark-menu");
 
-    var works = document.querySelector(".works");
+    const works = document.querySelector(".works");
     works.classList.toggle("dark-works");
 
-    var works_title = document.querySelector(".works__title");
+    const works_title = document.querySelector(".works__title");
     works_title.classList.toggle("dark-title");
 
-    var works_card = document.querySelectorAll(".works__card");
+    const works_card = document.querySelectorAll(".works__card");
     works_card.classList.toggle("dark-card");
 
-    var switcher = document.getElementById("switcher");
+    const switcher = document.getElementById("switcher");
     if (wrapper = document.querySelector(".dark-wrapper")) {
-        switcher.src = "https://shpilson.github.io/shpilson/img/moon.svg";
+        switcher.src = "/img/moon.svg";
     } else {
-        switcher.src = "https://shpilson.github.io/shpilson/img/day.svg";
+        switcher.src = "/img/day.svg";
     }
 
 }
