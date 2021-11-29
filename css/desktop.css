@@ -90,7 +90,7 @@ body {
 }
 
 /* Mobile menu on desktop - Off */
-#menu__toggle:checked~.header__nav-menu {
+#menu__toggle:checked~.header__menu-list {
     visibility: visible;
     left: 0;
 }
