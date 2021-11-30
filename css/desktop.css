@@ -39,6 +39,11 @@ body {
     background-position: center;
 }
 
+.works__project-link {
+    text-decoration: none;
+    color: #303030;
+}
+
 /* Container */
 
 .container {
