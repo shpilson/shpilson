@@ -172,6 +172,7 @@
         height: 250px;
         cursor: pointer;
         border-radius: 10px 10px 0 0;
+        max-width: fit-content;
     }
 
     .works__category {
