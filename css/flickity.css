@@ -129,7 +129,7 @@ https://flickity.metafizzy.co
 }
 
 .flickity-rtl .flickity-page-dots {
-    direction: rtl;
+    bottom: -22px;
 }
 
 .flickity-page-dots .dot {
