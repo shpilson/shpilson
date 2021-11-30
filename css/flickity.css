@@ -135,7 +135,7 @@ https://flickity.metafizzy.co
 .flickity-page-dots .dot {
     display: inline-block;
     margin: 0 8px;
-    background: rgb(199, 199, 199);
+    background: #06a3c7;
     border-radius: 50%;
     opacity: 0.25;
     cursor: pointer;
