@@ -3,5 +3,3 @@
 Stack: JavaScript (ReactJS), SCSS, HTML
 
 If you would like to join our team, please contact me – kowalenko.gg@gmail.com
-
-Also Telegram @imkowalenko
